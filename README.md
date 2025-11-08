@@ -63,6 +63,7 @@ Faith is your API. Effort is your runtime. Resilience is the version upgrade.
 When the next 365 days begin, you will not only analyze change — you will embody it.
 
 ---
+<img width="1536" height="1024" alt="Reboot Loop by KalyanDataGuy" src="https://github.com/user-attachments/assets/178c11cd-2bd6-4506-aa3a-ea4053b7e96c" />
 
 👤 *Written & visualized by KalyanDataGuy*  
 *(Part of the 365 DataLoop Series — Data × Decisions × Renewal × Resilience)*  
